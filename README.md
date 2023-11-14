@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+HI i am Zareh a stundent from SintLucas, 
+I’m currently working on my firtsperson schooter game. 
+I’m currently learning C# and unity
 <!--
 **Zareh06/Zareh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
